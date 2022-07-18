@@ -3,9 +3,6 @@ import pandas as pd
 import joblib
 
 
-import joblib
-
-joblib.dump(clf, "clf1.pkl")
 # Title
 st.header("Streamlit Machine Learning App")
 
